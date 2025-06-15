@@ -57,6 +57,7 @@ a{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    color:#434455;
      
 }
 
@@ -78,7 +79,7 @@ a{
 
 .buttom:hover,
 .buttom:focus{
-    background-color: #404BBF;
+ background-color:#404bbf;
 }
 
 .title-page{
@@ -127,6 +128,10 @@ a{
      height: 732px;
  }
 
+ .list-team{
+    background-color: #FFFFFF;
+ }
+
  .name{
     font-weight: 500;
     font-size: 20px;
@@ -138,14 +143,15 @@ a{
 
  
  .title-team{
+    text-transform: capitalize;
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.11111;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
  }
- 
+
  .section-page-team{
     font-weight: 400;
     font-size: 16px;
@@ -162,9 +168,10 @@ a{
 .section-title-portfolio{
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.11111;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
+    text-transform: capitalize;
     color: #2e2f42
 }
 
