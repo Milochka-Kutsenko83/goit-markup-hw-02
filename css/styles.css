@@ -59,9 +59,6 @@ a{
     .type-buttom{
     cursor: pointer;
     background: #4d5ae5;
-    border-radius: 4px;
-    width: 169px;
-    height: 56px;
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.04em;
